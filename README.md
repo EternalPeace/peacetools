@@ -1,2 +1,2 @@
 # peacetools
-tools for peace
+We make war that we may live in peace.
