@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+‘’’
+Author=yanyun
+Email=yanyuneternal@163.com
+‘’’
 import platform
 import os
 import threading
