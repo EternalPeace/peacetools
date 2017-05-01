@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-‘’’
+'''
 Author=yanyun
 Email=yanyuneternal@163.com
-‘’’
+'''
 import httplib
 def Scanweb(web):
     if web.__len__() == 0 :

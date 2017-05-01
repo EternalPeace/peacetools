@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-‘’’
+'''
 Author=yanyun
 Email=yanyuneternal@163.com
-‘’’
+'''
 import nmap # import nmap.py module
 import optparse  
 def scanonce(tgtHost, tgtPort):  
