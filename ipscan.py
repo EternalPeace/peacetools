@@ -1,6 +1,7 @@
 import platform
 import os
 import threading
+import time
 '''
 call for example 
 print "start time %s"%time.ctime()
@@ -36,4 +37,5 @@ def ipscan(ip_prefix,ip_b,ip_e):
     for t in threads:
         t.setDaemon(True)   
         t.start()
+        time.sleep(0.1)
     t.join()
