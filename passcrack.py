@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-Author=yanyun
-Email=yanyuneternal@163.com
+from violent python src
 '''
 #passwords.txt store the password need to be cracked
 #dictionary.txt  sotre the dictionary
